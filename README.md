@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me encuentro estudiando Ingenieria en sistemas y computación<br>soy un apasionado por el mundo del Hacking, ciberseguridad<br>consultas de bases de datos, entre más....<br>
+I am currently studying Systems and Computing Engineering and I am passionate about the world of Hacking, Cybersecurity, database querying, among others...<br>
 
 
 # 💻 Tech Stack:
