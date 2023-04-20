@@ -5,9 +5,8 @@ I am currently studying Systems and Computing Engineering and I am passionate ab
 # 💻 Tech Stack:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RodrigoDCP&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoDCP&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDCP&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RodrigoDCP&icon=5&color=0)](https://visitcount.itsvg.in)
